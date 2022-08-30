@@ -2,6 +2,20 @@ body {
     background: #cccccc
 }
 
+#123 {
+    width: 100%;
+}
+
+h1{
+    text-align: center
+
+}
+
+#missao {
+    font-size: 20px
+
+}
+
 p {
     text-align: center
 }
@@ -9,3 +23,6 @@ p {
 em strong {
     color: red;
 }
+
+
+
